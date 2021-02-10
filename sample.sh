@@ -11,7 +11,7 @@ function sample1() {
    echo Hello from sample1 fuction
 }
 ##Access the function
-a = 40
+a=40
 sample
 sample1
 echo b = $b
