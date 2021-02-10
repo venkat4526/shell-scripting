@@ -12,7 +12,7 @@ function sample1() {
    echo Hello from sample1 fuction
 }
 ##Access the function
-sample
+sample echo $c
 sample1
 echo $c
 
