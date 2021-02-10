@@ -2,9 +2,9 @@
 #way1
 sample() {
   echo hello from sample function
-  echo a = 10
-  b=20
-  c = a+b
+  a = 10
+  b = 20
+  c = a + b
   echo $c
   }
 
