@@ -6,7 +6,7 @@ sample() {
   b=20
   }
 
-way2
+#way2
 function sample1() {
    echo Hello from sample1 fuction
 }
